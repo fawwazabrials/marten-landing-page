@@ -1,4 +1,4 @@
-# Marten landing page
+# Description
 A landing page created for the purpose of learning web development using The Odin Project.
 
 # The Odin Project
